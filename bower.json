@@ -1,26 +1,22 @@
 {
-  "name": "land.io",
-  "homepage": "http://tatygrassini.github.io/landio-html/",
-  "authors": "Taty Grassini",
-  "description": "Landio is a responsive HTML template, built on top of Bootstrap 4 and based on the Land.io Sketch design by Peter Finlan. This template and the UI kit were coded by Taty Grassini.",
+  "name": "lafatra",
+  "homepage": "http://diamondrarktvo.github.io/lafatra-html/",
+  "authors": "Dama RKTVO",
+  "description": "L'Afatra, la plateforme qui réinvente votre bien-être professionnel.",
   "main": [
-    "scss/landio.scss",
+    "scss/lafatra.scss",
     "js/landio.min.js"
   ],
-  "license": "Codrops custom Licence",
+  "license": "Dama custom Licence",
   "moduleType": "globals",
   "keywords": [
-    "Land.io",
-    "landio",
-    "ui-kit",
-    "sketch",
-    "css",
-    "js",
-    "scss",
-    "mobile-first",
-    "responsive",
-    "front-end",
-    "codekit"
+    "Lafatra",
+    "lafatra",
+    "L'afatra",
+    "l'afatra",
+    "humeur",
+    "entreprise",
+    "responsive"
   ],
   "ignore": [
     "**/.*",

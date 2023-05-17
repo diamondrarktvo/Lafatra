@@ -1,19 +1,19 @@
 {
-  "name": "landio-html",
+  "name": "lafatra",
   "version": "1.0.0",
   "description": "![Version badge](https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.2.7&x2=0)",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tatygrassini/landio-html.git"
+    "url": "git+https://github.com/diamondrarktvo/lafatra.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tatygrassini/landio-html/issues"
+    "url": "https://github.com/diamondrarktvo/lafatra#readme/issues"
   },
-  "homepage": "https://github.com/tatygrassini/landio-html#readme",
+  "homepage": "https://github.com/diamondrarktvo/lafatra#readme",
   "devDependencies": {
     "browser-sync": "^2.24.7",
     "gulp": "^3.9.1",

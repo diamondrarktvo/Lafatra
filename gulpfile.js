@@ -11,7 +11,7 @@ var reload = browserSync.reload;
 var notify = require("gulp-notify");
 
 gulp.task('sass', function () {
-  return gulp.src('./assets/scss/landio.scss')
+  return gulp.src('./assets/scss/lafatra.scss')
     .pipe(sourcemaps.init())
     .pipe(sass({ errLogToConsole: false, }))
     .on('error', function(err) {
