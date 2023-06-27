@@ -108,9 +108,6 @@
   content: "\e609";
 }
 
-.icon-logo:before {
-  content: "\e60a";
-}
 
 .icon-pen:before {
   content: "\e60b";
@@ -10329,7 +10326,8 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .icon-logo {
-  font-size: 45px;
+  height: 100px;
+  width: 160px;
 }
 
 @media (min-width: 768px) {
